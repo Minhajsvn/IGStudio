@@ -1,0 +1,12 @@
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn{
+    font-weight: 600;
+    margin-left: 16px;
+    border: none;
+    background-color: #242424;
+}
